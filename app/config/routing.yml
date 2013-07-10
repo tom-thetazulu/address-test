@@ -1,0 +1,5 @@
+sample_address:
+    resource: "@SampleAddressBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
